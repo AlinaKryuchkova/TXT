@@ -1,0 +1,5 @@
+1. name: Alina Kryuchkova
+2. age: 32
+3. pets: 1
+4. salary: 150 000 rub
+
